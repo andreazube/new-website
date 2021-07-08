@@ -84,7 +84,7 @@ const RepresentativesView = () => {
                 <div className="mb-2">
                     <Text variant="large">
                         Il rappresentante degli studenti è un ruolo molto importante ed altamente formativo, 
-                        che garantisce a tutti gli studenti universitari un supporto alle difficoltà che può incontrare durante il periodo di studio.
+                        che garantisce a tutti gli studenti universitari un supporto alle difficoltà che possono incontrare durante il periodo di studio.
                     </Text>
                 </div>
 
